@@ -1,0 +1,22 @@
+img{
+	max-width: 100%;
+}
+.gallery{
+	background-color: #dbddf1;
+	padding: 80px 0;
+	font-size: 30px;
+}
+.gallery img{
+	background-color: #ffffff;
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0 0 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+#gallery-modal .modal-img{
+	width: 100%;
+}
+
+.overwrite{
+	color:red;
+}
